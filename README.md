@@ -1,6 +1,6 @@
 # snakeGame
 Contents:
-- In this folder contains the cpp file and exe file
+- In this folder contains the cpp file and exe file that can be ran by simply double clicking.
 
 Game Details:
 - The game will ask you for the number of rows and columns you want in the grid, choose any reasonable integers you want and press enter.
